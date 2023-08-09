@@ -9,12 +9,16 @@ To get started ,you need to have flutter installed on you machine.Then,follow th
 
 # Cloud Functions
 -Install firebase in the node environment
+
 npm install -g firebase-tools
 -Login into firebase 
+
 firebase login
 
 # Running the Project
 #Install the dependencies
+
 flutter pub get
 #Run the project
+
 flutter run
